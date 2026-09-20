@@ -1,12 +1,136 @@
-# 💫 About Me:
-👋 Hi, I'm Daniyal — a Web Developer, Data Analyst, and Python Developer with a passion for building practical applications and turning data into useful insights.<br><br>💻 I work with React, JavaScript, Tailwind CSS, PHP, Laravel, MySQL, Python, Pandas, NumPy, SQL, Excel, and Power BI.<br><br>🌱 Currently learning advanced Python, data analytics, visualization, REST APIs, backend architecture, and production-ready development practices.<br><br>🚀 I enjoy building real-world projects, exploring new technologies, solving problems, and continuously improving my skills.<br><br>💬 Ask me about Web Development, Python, SQL, Data Analysis, Power BI, React, Laravel, or Git/GitHub.<br><br>🤝 I'm looking for help with advanced analytics, scalable application development, open-source collaboration, and becoming a better all-around developer.<br><br>⚡ Fun fact: My favorite debugging technique is staring at the code until the bug gets scared and reveals itself. 😄
+# 👋 Hey, I'm Daniyal
 
+### Python Developer • Data Analyst • Web Developer
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mujtaba.__.k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniyal-mujtaba-k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ds.daniyalmujtaba@gmail.com) 
+I enjoy building practical software, working with data, and turning ideas into projects that actually solve problems.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
+My main focus is **Python development and data analytics**, while I also build web applications and continue improving my backend and software development skills.
 
 ---
+
+## 🧠 What I Work With
+
+**Python & Data**
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Data Cleaning & EDA
+* SQL
+* Excel
+* Power BI
+
+**Web Development**
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Tailwind CSS
+* Vite
+* REST APIs
+* MySQL
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+* Microsoft SQL Server
+
+---
+
+## 🔨 What I'm Building
+
+I like learning by building rather than only following tutorials.
+
+Some of the things I work on include:
+
+* Python automation tools
+* Data analysis projects
+* Interactive dashboards
+* File and data management utilities
+* Web applications
+* SQL-based projects
+* Small tools that solve everyday problems
+
+Each project is an opportunity to improve my **logic, problem-solving, code structure, and understanding of real-world development**.
+
+---
+
+## 📊 Data Analytics
+
+I'm particularly interested in the process of turning raw data into something useful:
+
+```text
+Raw Data
+   ↓
+Cleaning
+   ↓
+Exploration
+   ↓
+Analysis
+   ↓
+Visualization
+   ↓
+Insights
+```
+
+I work with **Python, Pandas, NumPy, SQL, Excel, and Power BI** to explore datasets, identify patterns, and communicate findings clearly.
+
+---
+
+## 🐍 Currently Learning
+
+I'm currently going deeper into:
+
+* Advanced Python
+* Data analysis and visualization
+* SQL
+* Python automation
+* REST APIs
+* Backend development
+* Software architecture
+* Better project structure
+* Writing cleaner and more maintainable code
+
+My goal isn't just to learn more tools — it's to become better at **thinking through problems and building things properly**.
+
+---
+
+## 🚀 My Approach
+
+I prefer projects that are:
+
+**Practical → Simple → Understandable → Useful**
+
+I don't try to make a project complicated just to make it look impressive.
+
+I'd rather build something small, understand every part of it, and then improve it as my skills grow.
+
+---
+
+## 🤝 Let's Connect
+
+If you're interested in **Python, Data Analytics, Web Development, or software projects**, feel free to connect.
+
+<p align="left">
+  <a href="https://linkedin.com/in/daniyal-mujtaba-k">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ds.daniyalmujtaba@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/mujtaba.__.k">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⚡ A little about me
+
+I enjoy the moment when a problem finally makes sense after debugging it for way too long.
+
+**Build → Break → Understand → Fix → Improve.**
